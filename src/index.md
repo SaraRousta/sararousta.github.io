@@ -9,8 +9,8 @@ email: s.rousta@students.uu.nl
 clickable-email: false
 picture: img/profile.png
 picture-round: true
-side-by-side: false
-disable-dark-mode: false
+side-by-side: true
+disable-dark-mode: true
 pronouns: she/her
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 
