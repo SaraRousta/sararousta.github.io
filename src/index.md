@@ -8,7 +8,7 @@ location:
 email: s.rousta@students.uu.nl
 clickable-email: false
 picture: img/profile.png
-picture-round: true
+picture-round: false
 side-by-side: true
 disable-dark-mode: false
 pronouns: she/her
